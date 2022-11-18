@@ -1,31 +1,42 @@
-# Real Estate NFT DApp
+# WEB3 ESTATES
 
-## Technology Stack & Tools
+## Buy & Sell Real Estate Properties using NFTs
 
-- Solidity (Writing Smart Contracts & Tests)
-- Javascript (React & Testing)
+<image placeholder>
+
+### Tech Stack & Tools Used
+
+- Solidity (Smart Contracts)
+- Javascript (Writing Tests & Frontend)
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [React.js](https://reactjs.org/) (Frontend Framework)
 
-## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
+<br>
 
-## Setting Up
-### 1. Clone/Download the Repository
+### To See This Up & Running:
 
-### 2. Install Dependencies:
-`$ npm install`
+1. Install [NodeJS](https://nodejs.org/en/)
 
-### 3. Run tests
-`$ npx hardhat test`
+2. Clone / Download this Repository
 
-### 4. Start Hardhat node
-`$ npx hardhat node`
+3. Install the Dependencies:
 
-### 5. Run deployment script
-In a separate terminal execute:
-`$ npx hardhat run ./scripts/deploy.js --network localhost`
+   - `npm install`
 
-### 7. Start frontend
-`$ npm run start`
+4. Run the tests
+
+   - `npx hardhat test`
+
+5. Start the Hardhat node
+
+   - `npx hardhat node`
+
+6. Run the deployment script
+
+   - In a separate terminal execute:
+   - `npx hardhat run ./scripts/deploy.js --network localhost`
+
+7. Start the frontend
+
+   - `npm run start`
