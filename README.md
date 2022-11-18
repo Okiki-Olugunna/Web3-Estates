@@ -1,8 +1,10 @@
 # WEB3 ESTATES
 
 ## Buy & Sell Real Estate Properties using NFTs
+<br>
 
-<image placeholder>
+<img src="https://user-images.githubusercontent.com/92333005/202707606-08d035ea-3adb-4fa4-b252-40524ac47123.png" width="650"/>
+
 
 ### Tech Stack & Tools Used
 
